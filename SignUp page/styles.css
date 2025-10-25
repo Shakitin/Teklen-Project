@@ -159,11 +159,13 @@ top: 50%;
   background: #8A75FF;
   border: none;
   border-radius: 6px;
+  color: #fff;
+  font-weight: bold;
 }
 .signup:hover{
   background: #585279;
 }
-.signupT{
+.signupb{
   color: #fff;
   font-weight: bold;
 }
